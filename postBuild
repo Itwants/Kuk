@@ -1,1 +1,1 @@
-mkdir -p /lib/modules/5.15.0-79-generic/build/your_directory_name
+sudo mkdir -p /lib/modules/5.15.0-79-generic/build/your_directory_name
